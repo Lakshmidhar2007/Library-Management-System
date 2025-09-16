@@ -1,25 +1,27 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+### Reg No: 212224230138
+### Name: LAKSHMIDHAR N
+### Date: 16/09/2025
 
 
 # AIM:
 To develop the Library Management System using Star UML
 
 # Problem Statement:
-1.Library Management System is required to replace the manual tracking of books, member records, and lending activities, which is prone to errors and inefficiency.
+1. Library Management System is required to replace the manual tracking of books, member records, and lending activities, which is prone to errors and inefficiency.
 
-2.Manual processes cause difficulties in managing book availability, overdue returns, and accurate record-keeping of issued and returned books.
+2. Manual processes cause difficulties in managing book availability, overdue returns, and accurate record-keeping of issued and returned books.
 
-3.Library users face challenges in searching for books, checking availability, and reserving or renewing books without visiting the library physically.
+3. Library users face challenges in searching for books, checking availability, and reserving or renewing books without visiting the library physically.
 
-4.Librarians need an automated system to catalog books, manage memberships, track loans, and send notifications for due dates and fines.
+4. Librarians need an automated system to catalog books, manage memberships, track loans, and send notifications for due dates and fines.
 
-5.The system should support quick check-in/check-out, fine calculation, and generate reports on inventory, borrowing trends, and user activity.
+5. The system should support quick check-in/check-out, fine calculation, and generate reports on inventory, borrowing trends, and user activity.
 
-6.It must provide secure role-based access for users and librarians, ensuring data integrity and protecting sensitive user information.
-UML DIAGRAMS
+6. It must provide secure role-based access for users and librarians, ensuring data integrity and protecting sensitive user information.
+
+# UML DIAGRAMS :
+___
 
 # USE CASE DIAGRAM
 
@@ -38,8 +40,9 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+```USE CASE DIAGRAM```
 
-
+![alt text](./Usecase.png)
 
 
 
@@ -58,6 +61,9 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+```CLASS DIAGRAM```
+
+![alt text](./class.png)
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,8 +72,9 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+```COMMUNICATION DIAGRAM```
 
-
+![alt text](./communication.png)
 
 # PACKAGE DIAGRAM:
 
@@ -77,9 +84,9 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+```PACKAGE DIAGRAM```
 
-
-
+![alt text](./package.png)
 
 
 
@@ -96,8 +103,9 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+```ACTIVITY DIAGRAM```
 
-
+![alt text](./activity.png)
 
 
 # SEQUENCE DIAGRAM
@@ -106,6 +114,9 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+```SEQUENCE DIAGRAM```
+
+![alt text](./sequence.png)
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
